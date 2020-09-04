@@ -1,6 +1,8 @@
 # Statistical-data-visualization
-Some tips for visualizations
+Some tips for visualizations  
 
+Python:  
+Some simple visualizations and statistical operations  
 Matlab:   
 Part1:  
 -Location and spread statistics.  
