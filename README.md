@@ -11,4 +11,9 @@ Part1:
 Part2:  
   
 ![alt text](https://github.com/Suarez94/Statistical-data-visualization/blob/master/Matlab/Part2/To%20Do%20List.png)
+  
+  
+Part3:
+  
+![alt text](https://github.com/Suarez94/Statistical-data-visualization/blob/master/Matlab/Part3/To%20Do%20List.png)
 
