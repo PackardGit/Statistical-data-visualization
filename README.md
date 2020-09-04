@@ -17,3 +17,6 @@ Part3:
   
 ![alt text](https://github.com/Suarez94/Statistical-data-visualization/blob/master/Matlab/Part3/To%20Do%20List.png)
 
+  
+Part4:  
+Some Scripts and some data. Including some tests - for example Mann-Whitney test or Benjami Hohberg and Holm test
